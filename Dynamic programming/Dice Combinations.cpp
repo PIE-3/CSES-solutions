@@ -1,3 +1,10 @@
+  
+/*  
+    author - Kausar Ahamed 
+    college - CTAE, Udaipur
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll            long long
